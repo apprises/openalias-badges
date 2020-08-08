@@ -1,6 +1,6 @@
 # openalias-badges
 
-Today, I'll show you how to create a cute monero badge to include on your github page, personal website, or anywhere else that supports html tags.
+Today, I'll show you how to create a cute openalias badge to include on your github page, personal website, or anywhere else that supports html tags.
 We will be using shields.io The service respects your privacy, but if you feel the need you can self-host: https://github.com/badges/shields/
 
 ![Example](https://img.shields.io/static/v1?label=Monero&message=donate&color=orange&logo=monero&link=monero:donate.getmonero.org)
@@ -31,6 +31,11 @@ If you would like to include in your github page use markdown:
 
   !\[Example\]\(https://img.shields.io/static/v1?label=Monero&message=donate&color=orange&logo=monero&link=monero:donate.getmonero.org)
   
+  
+Other cryptocurrencies are supported
+
+![Bitcoin Example](https://img.shields.io/static/v1?label=Bitcoin&message=donate&color=yellow&logo=bitcoin&link=btc:1FhnVJi2V1k4MqXm2nHoEbY5LV7FPai7bb)
+https://img.shields.io/static/v1?label=Bitcoin&message=donate&color=yellow&logo=bitcoin&link=btc:1FhnVJi2V1k4MqXm2nHoEbY5LV7FPai7bb
   
   
   Be aware that your mobile wallet won't notify you of an incoming transaction at this address.
